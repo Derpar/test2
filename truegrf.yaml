@@ -1,4 +1,7 @@
 description: A new TrueGRF project
+grfid: f1cacce0
 license: CC0-1.0
+name: test2
 type: industry
+url: https://github.com/Derpar/test2
 version: 6
